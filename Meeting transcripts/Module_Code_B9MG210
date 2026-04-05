@@ -1,0 +1,455 @@
+Module_Code_B9MG210-20260329_170535-Meeting Transcript 
+
+29 March 2026, 04:05pm 
+
+24m 0s 
+
+ 
+Akanksha Srivastava started transcription 
+
+ 
+Yash Ashok Purohit   0:38 
+I think we are good to start meeting now. We all are here. 
+
+ 
+Rahul sheroy shinod    0:42 
+Yeah. 
+
+ 
+Yash Ashok Purohit   1:04 
+So we have finalised the company, right? Lemon jelly, right? 
+
+ 
+Rahul sheroy shinod    1:07 
+Yes. 
+
+ 
+Yash Ashok Purohit   1:10 
+Okay. 
+
+ 
+Rahul sheroy shinod    1:10 
+Lemon jilla coffee. 
+
+ 
+Yash Ashok Purohit   1:12 
+Yo. 
+
+ 
+Rahul sheroy shinod    1:15 
+So their current infrastructure is within 2 methods, like they already have the delivery system and they already have the website, but their Instagram and everything is in separate handle. So they are running 2 at a time. So it will be more cost for them. So our aim is to reduce the cost and we want to make. 
+Everything together. So that's the reason we I like to take that one. So what about you guys? 
+
+ 
+Yash Ashok Purohit   1:42 
+And do you have any idea like what are the? 
+Services we are going to use for this company. 
+
+ 
+Rahul sheroy shinod    1:52 
+The thing is that the Lemon Cafe currently uses like 2 systems. So if we consolidated the structure into assure, so we can scale and we can make it more cost efficient efficient for the platform. So it is in the end, it is like we are just cost cutting there way to earn more like. 
+They don't want to unnecessary expense and all because anyway the purpose is same, so we are trying to make it more efficient and less cost. 
+
+ 
+Yash Ashok Purohit   2:16 
+Okay. 
+Okay, we are just trying to make it in a very less costly, like do you mean like we are just hosting them or like just that customer is on on prem? 
+
+ 
+Rahul sheroy shinod    2:34 
+the thing is that they don't have their control over on their database or backups, so like no staff, the staff scheduling system, no analytics dashboard to see this sales. 
+And the what type of items the customers prefer or what is the peak cover? So they are just running the website. If someone comes to place an order, they can place the order, but they don't they don't they are not getting what the customer preference. So we are just updating their current system. 
+In a more efficient manner. 
+
+ 
+Yash Ashok Purohit   3:13 
+Yeah, just okay, Akanksha has raised her hand. Yeah, Akanksha. 
+Rahul, how much I know? Like if they are on prem, then it will be. We are trying to make this a less costly or cheaper, but if they are already on prem, then it will be a cost costly for them also, right? 
+
+ 
+Rahul sheroy shinod    3:25 
+Yeah. 
+Yeah. 
+No, the thing is that they already have the both online website and the delivering setup and the promotion and everything in the Instagram, Facebook, TripAdvisor, everything is there. So they have to like hosting one is lemonjelly dot IE, one is order lemonjelly cafe dot IE. So there are 2 things. 
+
+ 
+Yash Ashok Purohit   3:50 
+Okay. 
+Okay, yeah. 
+
+ 
+Rahul sheroy shinod    4:00 
+So instead of making them into 2, we can make into one. So we don't have to pay for the 2 domains or we don't want to check the backup of 2 things because they are already paying the service fee service fee for the 3rd party. So there is no database, there is no one system like we can just manage everything in one system. So it will be more easy for them and less go. 
+Cost. 
+
+ 
+Yash Ashok Purohit   4:24 
+Yeah, got your point, yeah. 
+
+ 
+Rahul sheroy shinod    4:24 
+To handle. 
+So the angle is that they don't need a website like they already have a website, but we are just improving to the maximum like the best way. 
+
+ 
+Yash Ashok Purohit   4:36 
+Okay, yeah. 
+
+ 
+Rahul sheroy shinod    4:42 
+So I thought about using this cafe. So what do you guys figure out? 
+
+ 
+Yash Ashok Purohit   4:42 
+Akash. 
+I think, yeah. 
+Akanksha, are you there? 
+Akasha, can you hear us? 
+
+ 
+Rahul sheroy shinod    5:01 
+Hello, can you hear us? 
+
+ 
+Yash Ashok Purohit   5:01 
+Hello. 
+I think she's having some problem for her side. Let me check. 
+Before she start out, I just have 23 things to know like lemon jelly or order lemon jelly cafe like both are the same thing, right? Yeah, order lemon jelly is like a 3rd party ordering platform, correct? 
+
+ 
+Rahul sheroy shinod    5:20 
+Yeah. 
+They have, they have a physical cafe in the Dublin like near the Jerus, but they also have the online platform to delivery like they listed everything in the platform, but it is in the 2 places like 2 domains, so it will be hard them. They don't have a database, that's the only issue there. 
+Everything is fine. 
+
+ 
+Yash Ashok Purohit   5:49 
+Okay. 
+
+ 
+Rahul sheroy shinod    5:51 
+She's saying that she is speaking. 
+
+ 
+Yash Ashok Purohit   5:54 
+Yeah. 
+No, Akanksha, I don't think we can hear you. You just check your mic once, just or you can just rejoin the meeting. 
+
+ 
+Rahul sheroy shinod    6:14 
+Can wait. 
+
+ 
+Yash Ashok Purohit   6:20 
+So in this project, we are going to start everything from scratch, like we are making a DB for the lemon jelly. 
+
+ 
+Rahul sheroy shinod    6:26 
+Yeah. 
+
+ 
+Yash Ashok Purohit   6:28 
+Okay. 
+
+ 
+Rahul sheroy shinod    6:30 
+So I was planning to first we can write a like the report, what plan, what strategy we are going to make so I can make a report for that or we can divide into 3 or something because we can make what we are going to plan and what we are going to implement this project. So. 
+First, we can make that and update in the OneDrive, so it will be easy for us to. 
+
+ 
+Yash Ashok Purohit   6:56 
+Yeah, correct. 
+
+ 
+Rahul sheroy shinod    6:57 
+Okay, yeah. 
+So that will be the first task or we can make what we are going to do and what are the examples and what the architecture so. 
+
+ 
+Yash Ashok Purohit   7:10 
+Yeah, got it. 
+
+ 
+Rahul sheroy shinod    7:20 
+I think for this for today we can do this one and after that we can make a draft like for the introduction and everything we can make a draft and we can copy paste the this meeting and everything in the OneDrive so the browser can see. 
+
+ 
+Yash Ashok Purohit   7:41 
+Yeah. 
+I think she's having some problem. 
+So Rahul, like what are the things we have to do today? Like what are the task for today? Like which part we have to complete or we have to make some? 
+
+ 
+Rahul sheroy shinod    8:07 
+Yeah, because we already made the git up on OneDrive and he already collaborated with everyone's account. So like we just have to write the introduction if we are if we are all willing to take the chilli cafe, so we can make the introduction and or the draft for the like the base for what we are going to do and what are the plans we are going to do. So we can if we do that. 
+The first this step one is OK, then we have to make the assure the virtual machine so we can implement and we can take every screenshot for like what we are doing in this project. So yeah. 
+
+ 
+Yash Ashok Purohit   8:44 
+Yeah, Rahul, got it. So first of all, we have to make the baseline for the whole project, so that will be very easier for all of us. 
+
+ 
+Rahul sheroy shinod    8:52 
+Yeah. 
+
+ 
+Yash Ashok Purohit   8:53 
+Yeah, and it is good company. We can take it this Raman Chuli. 
+
+ 
+Rahul sheroy shinod    8:57 
+Yeah, its anyway its a small business and that's what the process said to take so we can. 
+I think she's unable to start overcome, so what should we do? 
+
+ 
+Yash Ashok Purohit   9:20 
+Akanksha, if you can hear, can you just try to just disconnect once or just connect back? Just do it once. 
+If you can hear us. 
+No, Akanksha, like we have to make the DB for this, like as an assignment, we have to make a DB on the. 
+Rahul, what you think like if we make some dummy website for the lemon jelly or we can host that? 
+
+ 
+Rahul sheroy shinod    10:06 
+We can, yeah, we can try, we can try. 
+
+ 
+Yash Ashok Purohit   10:24 
+Yeah, Akanksha, can you hear us now? 
+Second, let me check. 
+Now try just unmute yourself, Akanksha. I just I was just checking like if I can mute you, can sort yeah. 
+I think we are good for now, like we just have to make, we have to. 
+Perform a first step that like we are going to make a baseline for the project. So I think we are good for now. Once we have created the baseline for the project, then we will all know like what are the things we are going to do or perform or that will be very easy for all of 3. 
+
+ 
+Rahul sheroy shinod    11:19 
+Yeah. 
+
+ 
+Yash Ashok Purohit   11:32 
+What are the things are needed, documentation and all, or after the call, we can just go and search it by our own self, like what are the things need to be done and all. 
+
+ 
+Rahul sheroy shinod    11:41 
+Yeah. 
+
+ 
+Yash Ashok Purohit   11:43 
+Yeah, Akanksha, like in case if you are having any doubt or any question, you can just drop a message in the chat. 
+
+ 
+Rahul sheroy shinod    12:03 
+I think she's unable to hear. 
+
+ 
+Yash Ashok Purohit   12:06 
+Okay, I'll just. 
+
+ 
+Rahul sheroy shinod    12:40 
+I think the meeting is recording, right? 
+
+ 
+Yash Ashok Purohit   12:42 
+Yeah, transcripted is on Akanksha only, so yeah. 
+
+ 
+Rahul sheroy shinod    12:46 
+Okay. 
+She's recording, right? One second. 
+
+ 
+Yash Ashok Purohit   12:53 
+Yeah, meeting. 
+Yeah, transcript is started by Akanksha. 
+Recording is not. Let me check the transcript. 
+Yeah, he have just started a transcript note or recording. Do we need recording also? 
+
+ 
+Rahul sheroy shinod    13:24 
+Can you see the message? The transcript has started. 
+
+ 
+Yash Ashok Purohit   13:27 
+Yeah, transcript is started only. 
+Akanksha did that in starting only. I can see the transcript. 
+
+ 
+Rahul sheroy shinod    13:34 
+Okay. 
+
+ 
+Yash Ashok Purohit   13:35 
+Yeah, we don't need a recording, right? 
+
+ 
+Rahul sheroy shinod    13:39 
+Yeah, we don't need an according, but I am looking for the... 
+I think after the meeting, the chat will be updated, right? Because in the end we... 
+
+ 
+Yash Ashok Purohit   13:51 
+Yeah, once the meeting over, the transcript will come over the. 
+
+ 
+Rahul sheroy shinod    13:56 
+Yeah. 
+
+ 
+Yash Ashok Purohit   14:00 
+Yeah, Akanksha, like we are not able to hear you, but you can just drop your doubt or message in the group. So we can just go through it. 
+
+ 
+Rahul sheroy shinod    14:14 
+No, we can't hear you. Like she's typing in the chat, but we can't hear you. 
+
+ 
+Yash Ashok Purohit   14:16 
+Yeah, water go. 
+Yeah, I want what recommendation for this form. 
+Oh. 
+Not database. We are selecting Akanksha. We are just making database for this company. 
+
+ 
+Rahul sheroy shinod    15:17 
+The thing is that we are just moving everything into assure like already they have the. 
+2 sites like one for the jelly cafe dot I and another for the online ordering. So they are just paying to 3rd party at a time and they don't have the spreadsheets, manual tracking, WhatsApp, there is no backup for their datas and it is not properly network in the network. So we are just moving. 
+To the cloud like to the assure, so the assure SQL database will have everything and it is self hosted in assure, so everything will be in the assure control. So just basically a cloud managed networking. 
+I didn't get you. Okay, it's kind of e commerce market. What? 
+
+ 
+Yash Ashok Purohit   16:25 
+Rahul, like I think I was little wrong in starting just wanted to check again like they both were taking service from the 3rd party, right? So now we are going to host them on their own cloud, am correct? 
+
+ 
+Rahul sheroy shinod    16:35 
+Yeah. 
+Yeah, we are just making the 2 into one by using the assure. So assure will have the backup, assure will have the everything like they will have a database in there. 
+
+ 
+Yash Ashok Purohit   16:44 
+Okay, yeah. 
+Or is they both are having the same DB like the separate DB? 
+
+ 
+Rahul sheroy shinod    16:52 
+No, same same same. We are just implementing both into one. 
+
+ 
+Yash Ashok Purohit   16:57 
+Okay, perfect. Yeah. 
+
+ 
+Rahul sheroy shinod    17:00 
+I am just planning to make the cafe website in the docker, so the docker will have the menu, the basic order, and everything, and it will be it will be running in the assure in the virtual machine, so the assure will hold the store menu, order staff, every everything it will be in the assure in the database. 
+
+ 
+Yash Ashok Purohit   17:19 
+Okay. 
+And like, yeah, continue, sorry. 
+
+ 
+Rahul sheroy shinod    17:20 
+So if we are in. 
+So if we are storing everything, the images, the like the product images, the information, everything in the assure, the assure will have the old database for even for the online ordering, for the updates, for the offers and everything, it will be in the same assure database. So everything will be connected because assure has. 
+Have the back end virtual connection for everything. Like if we create 2 subnets, it will be connected via the assure. So we are just making everything into one so they don't have to handle multiple things and they don't have to pay for different 3rd parties. 
+
+ 
+Yash Ashok Purohit   18:01 
+Yeah. 
+
+ 
+Rahul sheroy shinod    18:03 
+Like if you are saying that. 
+
+ 
+Yash Ashok Purohit   18:03 
+Edward. 
+Yeah, please, I will continue. 
+
+ 
+Rahul sheroy shinod    18:07 
+Yeah, if you are saying that the website will pull the menu from the database like the website have all the information from the database like from the Azure database and it will show what orders are we are getting and what are the things in our database. After that, all the data will be stored in the. 
+Cloud Azure Cloud, so the people can understand this is the peak time, this is the most ordered item, and these are the times which we are getting lot of orders. So we are making analytics for them because they don't have that one. 
+
+ 
+Yash Ashok Purohit   18:39 
+Okay. 
+What if Professor or someone asked like why this both company are both are the thing same right? Order and the Jelly. So why they both are going for different 3rd party? Why they both are not having same thing? Because both are having same menu, same everything is same right? 
+
+ 
+Rahul sheroy shinod    18:56 
+Yeah. 
+Yeah, the cafes same and they have the website and they have running and like the promotion through the Facebook, WhatsApp and everything through a different like domain domain domain. So they don't want to do that, they can do it in a single. 
+
+ 
+Yash Ashok Purohit   19:11 
+Different domain. 
+Okay, yeah. 
+
+ 
+Rahul sheroy shinod    19:18 
+Like lemon lemon jelly dot IE is the basic shared hosting and order lemon jelly cafe dot IE is like a 3rd party like they are using this flip dish or something like it is a separate plugin. 
+
+ 
+Yash Ashok Purohit   19:24 
+Okay. 
+Okay, so order order Delhi, we are just going to migrate in the original one, right? The main one. 
+
+ 
+Rahul sheroy shinod    19:40 
+so like if you are ordering from Amazon, it will go through the Amazon, it won't go to a 3rd party like if you click the Amazon, it won't go to Flipkart or any other site to do the ordering. But in the lemon jelly, it goes to the order lemon jelly cafe dot I like to an another domain. 
+
+ 
+Yash Ashok Purohit   20:00 
+Yeah, got it. Yeah, Rahul. Yeah, thank you. 
+
+ 
+Rahul sheroy shinod    20:05 
+So I was thinking about taking that. I think Akanksha understand what you mean. 
+
+ 
+Yash Ashok Purohit   20:11 
+Yeah. 
+
+ 
+Rahul sheroy shinod    20:23 
+In the website you can see if you type the jellycafe.ie, you can see that it shows Jelly Cafe after you press the order online. It goes to order jelly lemonjellycafe.ie so it goes to a separate domain. 
+
+ 
+Yash Ashok Purohit   20:36 
+Yeah, got it, got it. Yeah. 
+
+ 
+Rahul sheroy shinod    20:42 
+So instead of that, they can use the same like they don't want to pay an extra buck for anyone. 
+
+ 
+Yash Ashok Purohit   20:48 
+Yeah, that will cause efficient. 
+Can you share us IT for fun? 
+
+ 
+Rahul sheroy shinod    21:05 
+Yeah, I did. 
+And when you process the online order, it will go to I will paste it. 
+
+ 
+Yash Ashok Purohit   21:24 
+So its real time. 
+Okay, so I think we are good for today, Rahul and Akanksha. 
+
+ 
+Rahul sheroy shinod    21:34 
+yeah. 
+
+ 
+Yash Ashok Purohit   21:37 
+Okay, perfect guys. Yeah, thank you. 
+
+ 
+Rahul sheroy shinod    21:38 
+So should be wind up, okay? 
+Okay, thank you. 
+
+ 
+Rahul sheroy shinod  stopped transcription 
