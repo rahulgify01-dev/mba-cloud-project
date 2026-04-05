@@ -1,0 +1,41 @@
+Meeting Summary Report 
+
+Module: Cloud Application Management (B9MG210) 
+
+Date: 29 March 2026 
+
+Duration: 24 minutes 
+
+Participants 
+
+Akanksha Srivastava 
+Yash Ashok Purohit 
+Rahul Sheroy Shinod 
+
+1. Meeting Objective 
+
+The purpose of the meeting was to finalize the project company and discuss the initial cloud strategy and implementation plan for the assignment. 
+
+2. Key Discussion Points 
+
+The team selected Lemon Jelly Café as the project company. The café operates both physically and online. Currently, it uses two separate systems: one for the main website and another third-party platform for online ordering. Additionally, social media platforms are managed separately. The team identified several issues such as lack of centralized database, no backup system, absence of analytics, and high dependency on third-party services. 
+
+3. Proposed Solution 
+
+The team proposed migrating the system to Microsoft Azure by consolidating both domains into a single platform. The solution includes creating a centralized Azure SQL database, hosting the application on a virtual machine, and using Docker for deployment. All business data including orders, menu, and customer details will be stored in the cloud. 
+
+4. Expected Benefits 
+
+The new system will reduce costs, eliminate third-party dependencies, improve scalability, and provide better data management. It will also enable analytics such as customer preferences, peak hours, and popular items, along with improved backup and security. 
+
+5. Project Plan & Tasks 
+
+The team agreed to create a project baseline and strategy document, write the initial report draft, and collaborate using OneDrive and GitHub. The next phase includes setting up the Azure virtual machine, implementing the database, and documenting the process with screenshots. 
+
+6. Challenges 
+
+A communication issue occurred during the meeting, and further research is required for tools and architecture. 
+
+7. Conclusion 
+
+The team finalized the project and agreed to develop a cloud-based solution to improve the current system. The focus will be on cost efficiency, system integration, and enhanced data analytics. 
