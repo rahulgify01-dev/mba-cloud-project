@@ -3,7 +3,7 @@ const { BlobServiceClient } = require('@azure/storage-blob');
 
 const dbConfig = {
   user: 'lemonjellyadmin',
-  password: 'LemonCafe@2026',
+  password: '######',
   server: 'lemonjelly-server.database.windows.net',
   database: 'free-sql-db-3254510',
   options: { encrypt: true, trustServerCertificate: false }
